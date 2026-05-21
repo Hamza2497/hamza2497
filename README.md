@@ -33,4 +33,4 @@ I work with .NET / ASP.NET Core on the backend, React + Angular on the front, an
 
 ---
 
-*Open to backend and full-stack roles — remote or onsite Beirut.*
+*Open to backend, full-stack, and AI engineer roles — remote or onsite Beirut.*
