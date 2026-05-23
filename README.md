@@ -20,9 +20,9 @@ I work with .NET / ASP.NET Core on the backend, React + Angular on the front, an
 
 ---
 
-### 🚀 Currently building
+### 🚀 Latest project
 
-**[mcp-eval-server](https://github.com/Hamza2497/mcp-eval-server)** — A Python MCP server that exposes structured LLM evaluation tools (factual accuracy, logical consistency, rubric scoring) callable directly from Claude Desktop or any MCP-compatible agent. Draws on my LLM evaluation work at Invisible Technologies.
+**[mcp-eval-server](https://github.com/Hamza2497/mcp-eval-server)** — A Python MCP server that exposes structured LLM evaluation tools (factual accuracy, logical consistency, rubric scoring) callable directly from Claude Desktop or any MCP-compatible agent. Draws on my LLM evaluation work at Invisible Technologies. v1 shipped — v2 in progress.
 
 ---
 
