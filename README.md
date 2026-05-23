@@ -1,6 +1,6 @@
 # Hi, I'm Hamza 👋
 
-AI-augmented full-stack developer. I build backend systems and integrate LLMs into production workflows — currently shipping an MCP server for structured LLM output evaluation.
+AI-augmented full-stack developer. I build backend systems and integrate LLMs into production workflows — I shipped an MCP server for structured LLM output evaluation and I'm actively building v2.
 
 I work with .NET / ASP.NET Core on the backend, React + Angular on the front, and Python for AI tooling. I deploy on AWS and Docker, and I use Claude and Codex as daily pair-programmers to move faster without cutting corners.
 
