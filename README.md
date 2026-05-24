@@ -1,6 +1,6 @@
 # Hi, I'm Hamza 👋
 
-AI-augmented full-stack developer. I build backend systems and integrate LLMs into production workflows — I shipped an MCP server for structured LLM output evaluation and I'm actively building v2.
+AI-augmented full-stack developer. I build backend systems and integrate LLMs into production workflows — I shipped an MCP server + web app for structured LLM output evaluation, with a Claude Desktop plugin, shareable evaluation links, and 19 passing tests.
 
 I work with .NET / ASP.NET Core on the backend, React + Angular on the front, and Python for AI tooling. I deploy on AWS and Docker, and I use Claude and Codex as daily pair-programmers to move faster without cutting corners.
 
@@ -22,7 +22,7 @@ I work with .NET / ASP.NET Core on the backend, React + Angular on the front, an
 
 ### 🚀 Latest project
 
-**[mcp-eval-server](https://github.com/Hamza2497/mcp-eval-server)** — A Python MCP server that exposes structured LLM evaluation tools (factual accuracy, logical consistency, rubric scoring) callable directly from Claude Desktop or any MCP-compatible agent. Draws on my LLM evaluation work at Invisible Technologies. v1 shipped — v2 in progress.
+**[mcp-eval-server](https://github.com/Hamza2497/mcp-eval-server)** — Python MCP server + web app for structured LLM output evaluation. 5 evaluation tools (factual accuracy, logical consistency, rubric scoring, relevance, output comparison), Claude Desktop plugin, chat-style web interface with shareable links, evaluation history, dark/light mode, and 19 passing tests. Draws on my LLM evaluation work at Invisible Technologies. → [Live demo](https://llm-eval-dmpf.onrender.com/)
 
 ---
 
