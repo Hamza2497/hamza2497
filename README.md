@@ -24,11 +24,11 @@ I work with .NET / ASP.NET Core on the backend, React + Angular on the front, an
 
 ---
 
-### 🚀 Latest project
+### 🚀 Featured projects
+
+**[PIP](https://github.com/Hamza2497/PIP)** — learning layer for AI-assisted developers. Describe a project and PIP maps it into a visual concept tree (Gemini + pgvector dedup), then teaches you through each concept with a checkpoint Q&A so you actually understand what you ship. Skills persist and compound across projects. Full-stack: FastAPI, React + Vite, PostgreSQL, Google OAuth, Docker. → [Live demo](https://pip-sandy.vercel.app/)
 
 **[mcp-eval-server](https://github.com/Hamza2497/mcp-eval-server)** — Python MCP server + web app for structured LLM output evaluation. 5 evaluation tools (factual accuracy, logical consistency, rubric scoring, relevance, output comparison), Claude Desktop plugin, chat-style web interface with shareable links, evaluation history, dark/light mode, and 19 passing tests. Draws on my LLM evaluation work at Invisible Technologies. → [Live demo](https://llm-eval-dmpf.onrender.com/)
-
-🚧 **Currently building:** **PIP** — learning layer for AI-assisted developers. You describe a project; it maps your skill gaps, generates a dependency-ordered build plan, and quizzes you at each checkpoint so you actually own what you ship. Skills compound across projects in a persistent DB. Gemini streaming + function calling, full-stack. Ship target: June 2026.
 
 ---
 
