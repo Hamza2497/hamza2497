@@ -1,8 +1,8 @@
 # Hi, I'm Hamza 👋
 
-AI-augmented full-stack developer. I build backend systems and integrate LLMs into production workflows — I shipped an MCP server + web app for structured LLM output evaluation, with a Claude Desktop plugin, shareable evaluation links, and 19 passing tests.
+AI-augmented full-stack developer. I build backend systems and integrate LLMs into production workflows — shipped a Claude plugin that teaches concepts behind the code you write (prerequisite-ordered trees, interactive quizzes, visual dashboard), and an MCP server + web app for structured LLM output evaluation (Claude Desktop plugin, shareable links, 19 tests).
 
-I work with .NET / ASP.NET Core on the backend, React + Angular on the front, and Python for AI tooling. I deploy on AWS and Docker, and I use Claude and Codex as daily pair-programmers to move faster without cutting corners.
+I work with .NET / ASP.NET Core on the backend, React + Angular on the front, and Python for AI tooling. I deploy on AWS and Docker, and I use Claude as a daily pair-programmer to move faster without cutting corners.
 
 ---
 
@@ -26,7 +26,7 @@ I work with .NET / ASP.NET Core on the backend, React + Angular on the front, an
 
 ### 🚀 Featured projects
 
-**[PIP](https://github.com/Hamza2497/pip-plugin)** — When an agent writes most of the code, comprehension silently falls behind delivery. You can ship a feature without being able to explain the dependency-injection container, the SSE stream, or why the migration runs the way it does. PIP closes that gap by turning the code you ship into a graded, defensible curriculum — in the same order you build it. The live Demo app → [Live demo](https://pip-sandy.vercel.app/)
+**[PIP Plugin](https://github.com/Hamza2497/pip-plugin)** — Claude plugin that rides along while you code, building a prerequisite-ordered concept tree from your actual repository. Teaches each concept interactively, checkpoints with multi-facet quizzes that raise scores on improvement, and renders a visual dashboard of everything you've learned sliced by project and stack. Ships with zero infrastructure (no servers, no keys), token-efficient through subagent delegation, and never writes your production code. Solves the shipping-without-learning problem. → [Live demo available](https://pip-sandy.vercel.app/)
 
 **[mcp-eval-server](https://github.com/Hamza2497/mcp-eval-server)** — Python MCP server + web app for structured LLM output evaluation. 5 evaluation tools (factual accuracy, logical consistency, rubric scoring, relevance, output comparison), Claude Desktop plugin, chat-style web interface with shareable links, evaluation history, dark/light mode, and 19 passing tests. Draws on my LLM evaluation work at Invisible Technologies. → [Live demo](https://llm-eval-dmpf.onrender.com/)
 
