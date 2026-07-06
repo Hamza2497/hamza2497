@@ -1,8 +1,8 @@
 # Hi, I'm Hamza 👋
 
-AI-augmented full-stack developer. I build backend systems and integrate LLMs into production workflows — shipped a Claude plugin that teaches concepts behind the code you write (prerequisite-ordered trees, interactive quizzes, visual dashboard), and an MCP server + web app for structured LLM output evaluation (Claude Desktop plugin, shareable links, 19 tests).
+AI-augmented developer with hands-on LLM evaluation experience — I score model outputs and stress-test reasoning at Invisible Technologies, then build AI tooling from that work. Shipped PIP (a Claude plugin for AI-assisted learning) and an MCP eval server exposing five evaluation tools, both production-deployed.
 
-I work with .NET / ASP.NET Core on the backend, React + Angular on the front, and Python for AI tooling. I deploy on AWS and Docker, and I use Claude as a daily pair-programmer to move faster without cutting corners.
+My stack spans both sides: Python and structured LLM evaluation on the AI side; .NET / ASP.NET Core, React, and Angular on the web side. I deploy on AWS and Docker, and use Claude and Codex as daily pair-programmers to move faster without cutting corners.
 
 ---
 
@@ -39,4 +39,4 @@ I work with .NET / ASP.NET Core on the backend, React + Angular on the front, an
 
 ---
 
-*Open to backend, full-stack, and AI engineer roles — remote or onsite Beirut.*
+*Open to AI engineer, backend, and full-stack roles — remote or onsite Beirut*
